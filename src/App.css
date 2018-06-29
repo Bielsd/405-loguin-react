@@ -1,5 +1,9 @@
 #telalogin{
-  background-color: darkgray;
-  height: 25vh;
-  width: 25vw;
+  background-color: rgb(60, 60, 219);
+  height: 35vh;
+  width: 35vw;
+  border-radius: 20px;
+   background-color: rgba(0, 0, 0, 0.562);
+  padding: 10px;
+  box-shadow: 5px 10px 8px #000000;
 }

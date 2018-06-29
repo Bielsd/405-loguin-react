@@ -4,8 +4,16 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    
 }
 
 input{
+    border: none;
+    margin-bottom:5px;    
     width: 80%;
+    border-radius: 5pt;
+    text-align: center;
+}
+input:hover{
+    border: 3px solid;
 }
